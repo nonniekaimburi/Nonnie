@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-<a href="https://twitter.com/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nonniekaimburi" height="20" width="20" /></a>
+<a href="https://twitter.com/Sonni_e_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nonniekaimburi" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/nonnie-kaimburi-421aab210/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nonniekaimburi" height="20" width="20" /></a>
 <a href="https://www.instagram.com/nonnie_kaimburi/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nonniekaimburi" height="20" width="20" /></a>
 <a href="https://dev.to/wekesa350" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nonniekaimburi" height="20" width="20" /></a>
